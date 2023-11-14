@@ -175,7 +175,8 @@ header ul li a:hover{
     border: 0;
     color: white;
     border-radius: 4px;
-    background: #111;cursor: pointer;
+    background: #111;
+    cursor: pointer;
 }
 
 
@@ -194,6 +195,10 @@ header ul li a:hover{
 }
 .google ul li a{
     font-size: 13px;
+}
+.saad ul :hover{
+    text-decoration: underline;
+    
 }
 
 
